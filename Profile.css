@@ -1,0 +1,34 @@
+.bodytag {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.profilepic {
+    border: 1px solid black;
+    width: 400px;
+    padding: 10px;
+    margin: 10px auto;
+    border-radius: 20px;
+}
+
+
+
+.card-img {
+    box-sizing: border-box;
+    width: 100%;
+    padding: 15px auto;
+    border-radius: 10px;
+    position: relative;
+}
+
+.profileImg {
+    box-sizing: border-box;
+    width: 150px;
+    position: absolute;
+    border-radius: 70%;
+    top: 230px;
+    left: 560px;
+}
+
+.content {
+    color: black;
+    text-align: center;
+}

@@ -1,0 +1,38 @@
+.bodytag {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.image-box {
+    border: 1px solid rgb(247, 246, 246);
+    width: 600px;
+    padding: 5px 300px;
+    margin: 5px auto;
+    /* border-radius: 20px; */
+}
+
+
+
+.imagebox {
+    box-sizing: border-box;
+    width: 100%;
+    padding: 15px auto;
+    border-radius: 10px;
+    position: relative;
+}
+
+.content {
+    position: absolute;
+    color: rgb(253, 251, 252);
+    top: 100px;
+    left: 500px;
+
+}
+
+.textbox {
+    border: 1px solid black;
+    padding: 10px auto;
+    width: 300px;
+    margin: 10px auto;
+    border-radius: 5px;
+    height: 20px;
+}
