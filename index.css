@@ -1,0 +1,77 @@
+.veg_item {
+    border: 1px solid black;
+    width: 400px;
+    padding: 10px;
+    margin: 10px auto;
+    border-radius: 20px;
+}
+
+
+
+.card-img {
+    box-sizing: border-box;
+    width: 100%;
+    padding: 15px auto;
+    border-radius: 10px;
+    position: relative;
+}
+
+.card-offer{
+    position: absolute;
+    top: 200px;
+    background-color: blue;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 3px;
+}
+
+.timer {
+    position: absolute;
+    top: 200px;
+    left: 790px;
+    background-color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.promoted{
+    position: absolute;
+    top: 10px;
+    padding: 5px;
+    margin: 25px auto;
+    width:80px;
+    background-color: grey;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.safety-delivery {
+    width: 100px; 
+    height: auto; 
+    width: 40px;
+    padding: 30px auto;
+}
+
+.box-model{
+    display: flex;
+    align-items: center;
+}
+
+.safety_text {
+    padding: 5px;
+    font-family:'Courier New', Courier, monospace;
+    font-style: normal;
+}
+
+.header{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style:normal;
+    font-weight: 800px;
+    font-size: 30px;
+   
+}
+
+.subHeading {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style:normal;
+    font-weight: 800px;
+    font-size: 15px;
+    padding: 15px auto;
+}
